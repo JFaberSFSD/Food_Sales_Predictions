@@ -19,7 +19,7 @@ We're going to start this journey with historical sales information. 8,523 rows 
     -  Most missing data we were able to locate the correct value based on other information from within the data itself (ex: item weight by item identifer)
     -  The remaining misisng values (which were all in the 'Outlet_Size' column) - we simply marked as "unknown" so that we could keep the rest of our data in there
   -  Categorical columns with inconsistent values were fixed
-    -  For example, the 'Item_Fat_Content" column had 'Low Fat" marked in three different ways: 'Low Fat', 'LF', and "low fat". These were consolidated into just "Low Fat" for consistency
+     -  For example, the 'Item_Fat_Content" column had 'Low Fat" marked in three different ways: 'Low Fat', 'LF', and "low fat". These were consolidated into just "Low Fat" for consistency
   -  We looked for any potential outliers from within our dataset, but found nothing so far outside of the norm that warranted removal, so we left all remaining data in the dataset for further exploration!
 
 ## Results
