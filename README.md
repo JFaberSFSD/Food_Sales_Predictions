@@ -40,7 +40,7 @@ Our first goal was to better understand our data, and some of the bigger takeawa
 
 After exploring and testing multiple models, our highest performing model for our data was a random forest model
 
-This final model had an RMSE 1,076.12 and an R^2 of 59.76%
+This final model had an RMSE of 1,076.12 and an R^2 of 59.76%
 
 While not "perfect" by any stretch of the imagniation, this model can still provide some valuable insight into our sales, as it accounts for nearly 60% of the sales variance in our data. 
 
