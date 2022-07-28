@@ -46,7 +46,7 @@ While not "perfect" by any stretch of the imagniation, this model can still prov
 
 ## Recommendations:
 
-We need to continue to gather more data to help the model. While we can use the model to provide us some insight for future decisions, and R^2 of just below 60% can be improved upon. We need to make it a point to gather as much data as we can in the coming months to feed our model more information. With more information we should be able to further improve the accuracy of our model and get to an R^2 number that we can all be comfortable with! 
+We need to continue to gather more data to help the model. While we can use the model to provide us some insight for future decisions, an R^2 of just below 60% can be improved upon. We need to make it a point to gather as much data as we can in the coming months to feed our model more information. With more information we should be able to further improve the accuracy of our model and get to an R^2 number that we can all be comfortable with! 
 
 
 
