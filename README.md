@@ -27,7 +27,7 @@ Our first goal was to better understand our data, and some of the bigger takeawa
 
 
 #### Top Categorical Sales - by Outlet Type
-![sample image](project1_sample_image.png)
+![VIZ 1](Final_Project_Visualization_1.png)
 
 > Sentence about visualization.
 
