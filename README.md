@@ -34,27 +34,23 @@ Our first goal was to better understand our data, and some of the bigger takeawa
 #### Total Sales By Outlet
 ![VIZ 2](Final_Project_Visualization_2.png)
 
-> Our entire dataset is comprised of sales from 10 different unique outlet locations. In looking at total sales for each of them individually, we can see that they are all extremely close! Every outlet that we have shows sales beteen 8.5M and 10M total. Between our first visualization and this one, it's easy to see that simply looking at categories of sales and which outlets they belong to, isn't going to be enough to help us predict sales moving foward. That's OK though, it's not supposed to be easy! This is where machine learning can help! It can find correlations and connections in our data that may not seem intuitive for us. Let's make some models! 
+> Our entire dataset is comprised of sales from 10 different unique outlet locations. In looking at total sales for each of them individually, we can see that they are all extremely close! Every outlet that we have shows sales beteen 8.5M and 10M total. Between our first visualization and this one, it's easy to see that simply looking at categories of sales and which outlets they belong to, isn't going to be enough to help us predict sales moving foward. That's OK though, it's not supposed to be easy! This is where machine learning can help! It can find correlations and connections in our data that may not seem intuitive for us initially. Let's make some models! 
 
 ## Model
 
-Describe your final model
+After exploring and testing multiple models, our highest performing model for our data was a random forest model
 
-Report the most important metrics
+This final model had an RMSE 1,076.12 and an R^2 of 59.76%
 
-Refer to the metrics to describe how well the model would solve the business problem
+While not "perfect" by any stretch of the imagniation, this model can still provide some valuable insight into our sales, as it accounts for nearly 60% of the sales variance in our data. 
 
 ## Recommendations:
 
-More of your own text here
+We need to continue to gather more data to help the model. While we can use the model to provide us some insight for future decisions, and R^2 of just below 60% can be improved upon. We need to make it a point to gather as much data as we can in the coming months to feed our model more information. With more information we should be able to further improve the accuracy of our model and get to an R^2 number that we can all be comfortable with! 
 
-
-## Limitations & Next Steps
-
-More of your own text here
 
 
 ### For further information
 
 
-For any additional questions, please contact **email**
+For any additional questions, please contact **JFaberSFSD@gmail.com**
